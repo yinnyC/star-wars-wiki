@@ -8,7 +8,9 @@ It's a website where you can search for Star Wars Characters with a number and s
 
 ## Set Up instruction
 
-Please run the command in your local project directory
+Please run these commands in your terminal @ your local project directory
+
+- `npm install`
 
 - To start the project: `yarn start`
 
