@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/star-wars-wiki/static/css/main.870ff11e.chunk.css",
-    "main.js": "/star-wars-wiki/static/js/main.50fe5113.chunk.js",
-    "main.js.map": "/star-wars-wiki/static/js/main.50fe5113.chunk.js.map",
+    "main.css": "/star-wars-wiki/static/css/main.f171b89a.chunk.css",
+    "main.js": "/star-wars-wiki/static/js/main.ce748cb4.chunk.js",
+    "main.js.map": "/star-wars-wiki/static/js/main.ce748cb4.chunk.js.map",
     "runtime-main.js": "/star-wars-wiki/static/js/runtime-main.73de5f33.js",
     "runtime-main.js.map": "/star-wars-wiki/static/js/runtime-main.73de5f33.js.map",
     "static/js/2.a41a73fc.chunk.js": "/star-wars-wiki/static/js/2.a41a73fc.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.7093e31e.chunk.js": "/star-wars-wiki/static/js/3.7093e31e.chunk.js",
     "static/js/3.7093e31e.chunk.js.map": "/star-wars-wiki/static/js/3.7093e31e.chunk.js.map",
     "index.html": "/star-wars-wiki/index.html",
-    "static/css/main.870ff11e.chunk.css.map": "/star-wars-wiki/static/css/main.870ff11e.chunk.css.map",
+    "static/css/main.f171b89a.chunk.css.map": "/star-wars-wiki/static/css/main.f171b89a.chunk.css.map",
     "static/js/2.a41a73fc.chunk.js.LICENSE.txt": "/star-wars-wiki/static/js/2.a41a73fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.73de5f33.js",
     "static/js/2.a41a73fc.chunk.js",
-    "static/css/main.870ff11e.chunk.css",
-    "static/js/main.50fe5113.chunk.js"
+    "static/css/main.f171b89a.chunk.css",
+    "static/js/main.ce748cb4.chunk.js"
   ]
 }
