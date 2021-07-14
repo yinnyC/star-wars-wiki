@@ -2,7 +2,7 @@
 
 It's a website where you can search for Star War Characters with numbers and save your favorite Character in a list.
 
-![Demo](./imgs/demo.png)
+![Demo](./imgs/Demo.png)
 
 ## Set Up instruction
 
