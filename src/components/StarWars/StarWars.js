@@ -1,5 +1,5 @@
 import { useSelector, useDispatch } from 'react-redux';
-import { setNumber, getPeople } from '../actions';
+import { setNumber, getPeople } from '../../actions';
 import SearchResult from './SearchResult/SearchResult'
 import FavoritedCharacter from './FavoritedCharacter/FavoritedCharacter'
 import './StarWars.css';

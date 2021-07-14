@@ -1,5 +1,5 @@
 import './SearchResult.css';
-import { saveFavorite } from '../../actions';
+import { saveFavorite } from '../../../actions';
 import { useDispatch } from 'react-redux';
 function SearchResult(props) {
   const { name, eye_color, hair_color, height, mass } = props;

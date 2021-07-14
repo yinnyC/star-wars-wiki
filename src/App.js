@@ -3,7 +3,7 @@ import { Provider } from 'react-redux';
 import thunk from 'redux-thunk';
 import rootReducer from './reducers';
 import './App.css';
-import StarWars from './StarWars/StarWars'
+import StarWars from './components/StarWars/StarWars'
 const store = createStore(rootReducer, applyMiddleware(thunk));
 
 function App() {
